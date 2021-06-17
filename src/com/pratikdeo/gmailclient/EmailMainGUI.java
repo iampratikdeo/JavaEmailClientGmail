@@ -117,7 +117,7 @@ public class EmailMainGUI extends javax.swing.JFrame {
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 90, 70, 60));
 
         background.setForeground(new java.awt.Color(255, 255, 255));
-        background.setIcon(new javax.swing.ImageIcon("/Users/pratikdeo/Downloads/Email-PixTeller.png")); // NOI18N
+        background.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/pratikdeo/images/Email-PixTeller.png"))); // NOI18N
         getContentPane().add(background, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 630, 450));
 
         pack();

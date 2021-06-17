@@ -9,3 +9,7 @@ Steps:
 
 Done. Now send your email through this client. 
 
+
+Project GUI:
+
+![](src/com/pratikdeo/images/Screenshot%202021-06-17%20at%204.03.27%20PM.png)
